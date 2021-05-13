@@ -1,0 +1,17 @@
+{
+  "name": "@mousetool/nickname801",
+  "version": "1.0.0",
+  "description": "String manipulations against A801 nicknames",
+  "main": "dummy.js",
+  "scripts": {
+    "build": "onelua index.lua out.lua"
+  },
+  "onelua": {
+    "main": "init.lua"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@mousetool/tfm-vscode": "^1.0.1"
+  }
+}
